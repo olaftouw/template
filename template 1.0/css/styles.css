@@ -1,0 +1,45 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-image: url(../img/bg2.jpg);
+	line-height: 1.7em; font-family: 'Roboto', sans-serif;
+}
+img.banner{
+	height: 155px;
+	width: 300px;
+	margin-top: 225px;
+	margin-left: 510px;
+	margin-right: 250px;
+	display: block;
+	border-radius: 10px 10px 10px;
+}
+a{
+	font-family: 'Roboto', sans-serif;
+	color: rgba(255, 255, 255, 0.8);
+	text-decoration: none;
+}
+
+div.menu{
+	height: auto;
+	width: 750px;
+	margin-left: 250px;
+	margin-right: 250px;
+	margin-top: 45px;
+	text-align: center;
+
+
+}
+li{
+	display: inline-block;
+	margin-left: 20px;
+}
+span{
+	display: block;
+	width: 90px;
+	height: 35px;
+}
+i{
+	opacity: 0.4;
+}
